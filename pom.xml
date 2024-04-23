@@ -19,6 +19,7 @@
 		<module>issue-service</module>
 		<module>discover-service</module>
         <module>reader-service</module>
+        <module>time-starter</module>
     </modules>
 	<properties>
 		<java.version>17</java.version>
